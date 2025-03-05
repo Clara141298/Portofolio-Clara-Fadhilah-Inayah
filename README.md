@@ -1,4 +1,4 @@
-# Transformasi Bangun Datar  
+# Transformasi Bangun Datar  dan Media Pembelajaran
 
 Dokumen ini berisi berbagai jenis transformasi bangun datar yang dapat dipelajari melalui GeoGebra dan Media pembelajaran.  
 
